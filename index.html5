@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio de Estructura HTML5 - Luis Medina</title>
+    <link rel="stylesheet" href="estilo.css"> <!-- Enlace al archivo CSS -->
+</head>
+<body>
+    <header>
+        <h1>Analizando el Patetiryhen</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Inicio</a></li>
+                <li><a href="#about">Razones</a></li>
+                <li><a href="#contact">Contacto</a></li> <!-- Se añadió una sección de contacto -->
+            </ul>
+        </nav>
+    </header>
+
+    <section>
+        <article>
+            <h2>¿Que es el Patetiryhen?</h2>
+            <p>Para adentrarnos mas en el tema primero hay que saber que es el patetiryhen y cual es la relacion de maryhen alejandra y alejandro pateti,las dos personas involucradas en este ship.</p>
+            <img src="patetiryhen_1.jpg" alt="Ejemplo del Patetiryhen" height="100px" width="300px">
+        </article>
+    </section>
+
+    <section>
+        <article>
+            <h2>Inicios</h2>
+            <p>Los inicios del patetiryhen se remontan a octubre de 2023, debido a que habia comenzado un nuevo año escolar y entre los nuevos estudiantes se encontraba Alejandro Pateti.   Maryhen y Alejandro ya se conocian previamente porque estudiaban en un kinder juntos cuando eran chiquitos.</p>
+        <p> Pasaron las semanas y meses, ya Alejandro que por comodidad lo llamare Pateti se habia integrado al grupo y ahi es cuabdo entra un personaje crucial en esta historia, Luis (osea yo) era un chico que le gustaba emparejar a su mejor amiga con otras personas, asi que Pateti no iba a ser la excepcion.
+            Pero esta vez iba a ser diferente. </p>  
+       <p> Pronto parte 2 :D </p>
+
+    </section>
+    <footer>
+        <p>&copy; 2024 Mi Sitio Web. Todos los derechos reservados a Luis Medina.</p>
+    </footer>
+</body>
+</html>
